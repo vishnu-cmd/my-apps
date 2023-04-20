@@ -20,4 +20,8 @@ describe('LoginComponentComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  
+  //Generate form with Product name and Price
+  
+
 });
