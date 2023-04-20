@@ -1,0 +1,20 @@
+.product-container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    .flower-image{        
+        padding: 10px;
+        width: 50%;
+        height: 100px;
+    }
+    .product{
+        font-size: 15px;
+        font-weight: 500;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .product-image{
+        padding: 10px;
+        width: 100%;
+        height: 50px;
+    }
+}
